@@ -1,0 +1,31 @@
+.avatar{
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;
+  
+}
+.border{
+  margin: 15px;
+  text-align: center;
+  justify-content: space-around;
+  width: 500px;
+  display: flex;
+  padding: 10px;
+  background-color: #051923;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 40px;
+  box-shadow: 5px 10px #cccccc;
+}
+
+.txt{
+  padding-top: 30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #E2E8F0;
+}
+
+
+
+
+
+
